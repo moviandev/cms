@@ -1,0 +1,32 @@
+{
+  "name": "cms",
+  "version": "1.0.1",
+  "description": "A CMS in Node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moviandev/cms.git"
+  },
+  "keywords": [
+    "CMS",
+    "NodeCMS",
+    "CMSInNode",
+    "Blogs"
+  ],
+  "author": "Matheus Viana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moviandev/cms/issues"
+  },
+  "homepage": "https://github.com/moviandev/cms#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
