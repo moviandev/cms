@@ -24,7 +24,7 @@
   "homepage": "https://github.com/moviandev/cms#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.3"
+    "express-handlebars": "^5.3.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
